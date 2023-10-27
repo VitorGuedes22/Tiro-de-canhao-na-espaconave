@@ -4,5 +4,7 @@ Exercício do laboratório 1 da matéria Organização e Arquitetura de Computad
 Condições: 
 
 Aceleração da gravidade = 9.8 m/s^2
+
 Sem resistência do ar
+
 tamanho da tela 320.0 x 240.0 metros (1 pixel = 1 metro)
